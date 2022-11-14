@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdsanowarhossain/Documents/Project_Pro/ML_Projects/deployment/MLflow/mlruns/0/9b115468e7854b15bda3098434095efb/artifacts
+end_time: 1668449099540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b115468e7854b15bda3098434095efb
+run_name: learned-bass-183
+run_uuid: 9b115468e7854b15bda3098434095efb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668449098031
+status: 3
+tags: []
+user_id: mdsanowarhossain

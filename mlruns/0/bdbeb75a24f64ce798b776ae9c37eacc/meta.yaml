@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdsanowarhossain/Documents/Project_Pro/ML_Projects/deployment/MLflow/mlruns/0/bdbeb75a24f64ce798b776ae9c37eacc/artifacts
+end_time: 1668449133152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdbeb75a24f64ce798b776ae9c37eacc
+run_name: sneaky-eel-745
+run_uuid: bdbeb75a24f64ce798b776ae9c37eacc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668449131429
+status: 3
+tags: []
+user_id: mdsanowarhossain

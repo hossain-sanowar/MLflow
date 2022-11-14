@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdsanowarhossain/Documents/Project_Pro/ML_Projects/deployment/MLflow/mlruns/0/e44c9bd6619a48eca400f3e3993b684e/artifacts
+end_time: 1668449105195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e44c9bd6619a48eca400f3e3993b684e
+run_name: luxuriant-bug-578
+run_uuid: e44c9bd6619a48eca400f3e3993b684e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668449103490
+status: 3
+tags: []
+user_id: mdsanowarhossain

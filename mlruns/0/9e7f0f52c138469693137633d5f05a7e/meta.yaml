@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdsanowarhossain/Documents/Project_Pro/ML_Projects/deployment/MLflow/mlruns/0/9e7f0f52c138469693137633d5f05a7e/artifacts
+end_time: 1668449282416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e7f0f52c138469693137633d5f05a7e
+run_name: dapper-kit-262
+run_uuid: 9e7f0f52c138469693137633d5f05a7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668449280716
+status: 3
+tags: []
+user_id: mdsanowarhossain

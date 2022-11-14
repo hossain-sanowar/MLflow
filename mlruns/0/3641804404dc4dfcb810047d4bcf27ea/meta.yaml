@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdsanowarhossain/Documents/Project_Pro/ML_Projects/deployment/MLflow/mlruns/0/3641804404dc4dfcb810047d4bcf27ea/artifacts
+end_time: 1668449111796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3641804404dc4dfcb810047d4bcf27ea
+run_name: upbeat-gnu-866
+run_uuid: 3641804404dc4dfcb810047d4bcf27ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668449110418
+status: 3
+tags: []
+user_id: mdsanowarhossain

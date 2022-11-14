@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdsanowarhossain/Documents/Project_Pro/ML_Projects/deployment/MLflow/mlruns/0/543488d7fc474d00b625c1f60c34b0b5/artifacts
+end_time: 1668449499085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 543488d7fc474d00b625c1f60c34b0b5
+run_name: bittersweet-cod-826
+run_uuid: 543488d7fc474d00b625c1f60c34b0b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668449497171
+status: 3
+tags: []
+user_id: mdsanowarhossain

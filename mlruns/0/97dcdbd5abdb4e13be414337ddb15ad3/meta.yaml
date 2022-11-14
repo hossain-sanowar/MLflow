@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdsanowarhossain/Documents/Project_Pro/ML_Projects/deployment/MLflow/mlruns/0/97dcdbd5abdb4e13be414337ddb15ad3/artifacts
+end_time: 1668448694630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97dcdbd5abdb4e13be414337ddb15ad3
+run_name: polite-bass-314
+run_uuid: 97dcdbd5abdb4e13be414337ddb15ad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668448693325
+status: 3
+tags: []
+user_id: mdsanowarhossain
